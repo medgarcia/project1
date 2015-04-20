@@ -1,0 +1,4 @@
+$mysql_host = "mysql17.000webhost.com";
+$mysql_database = "a8691537_cw15";
+$mysql_user = "a8691537_admin";
+$mysql_password = "Dformula123";
